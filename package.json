@@ -1,0 +1,109 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "hanzojs",
+        "scope": null,
+        "escapedName": "hanzojs",
+        "name": "hanzojs",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/guangqiang/Desktop/stateManagerDemo"
+    ]
+  ],
+  "_cnpm_publish_time": 1502880447244,
+  "_from": "hanzojs@latest",
+  "_id": "hanzojs@1.0.0-beta.26",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/hanzojs",
+  "_nodeVersion": "6.2.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/hanzojs-1.0.0-beta.26.tgz_1502880447138_0.8496576473116875"
+  },
+  "_npmUser": {
+    "name": "pamler",
+    "email": "pamler@126.com"
+  },
+  "_npmVersion": "5.3.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "hanzojs",
+    "scope": null,
+    "escapedName": "hanzojs",
+    "name": "hanzojs",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/hanzojs/-/hanzojs-1.0.0-beta.26.tgz",
+  "_shasum": "4ab88090527384ae5da9113f7c03fd4063570a2a",
+  "_shrinkwrap": null,
+  "_spec": "hanzojs",
+  "_where": "/Users/guangqiang/Desktop/stateManagerDemo",
+  "author": {
+    "name": "pamler"
+  },
+  "dependencies": {
+    "deepmerge": "^1.3.2",
+    "is-plain-object": "^2.0.1",
+    "node-fetch": "^1.6.3",
+    "react-dom": "^16.0.0-alpha.12",
+    "react-navigation": "^1.0.0-beta.10",
+    "react-redux": "^5.0.4",
+    "react-router": "3.0.5",
+    "react-router-redux": "^4.0.8",
+    "react-web-router-flux": "^1.1.15",
+    "redux": "^3.6.0",
+    "redux-actions": "^0.9.1",
+    "warning": "^3.0.0",
+    "whatwg-fetch": "^1.0.0"
+  },
+  "description": "react/react-native + redux",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-plugin-transform-object-assign": "^6.8.0",
+    "babel-polyfill": "^6.9.1",
+    "babel-preset-latest": "^6.16.0",
+    "babel-preset-react": "^6.5.0",
+    "babel-preset-react-hmre": "^1.1.1",
+    "babel-preset-stage-0": "^6.16.0",
+    "babel-preset-stage-1": "^6.16.0",
+    "babel-register": "^6.18.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "4ab88090527384ae5da9113f7c03fd4063570a2a",
+    "size": 15419,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/hanzojs/download/hanzojs-1.0.0-beta.26.tgz"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "pamler",
+      "email": "pamler@126.com"
+    }
+  ],
+  "name": "hanzojs",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react": "15.5.4"
+  },
+  "publish_time": 1502880447244,
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "pub": "sh ./scripts/publish.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0-beta.26"
+}
