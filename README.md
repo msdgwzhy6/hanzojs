@@ -1,8 +1,19 @@
 # hanzojs
 
-- 借鉴[dva.js](https://github.com/dvajs/dva)，在dva.js的基础上去掉以及定制了一些功能，用于redux和react框架的集成，目标是将繁琐的redux开发尽量简化，易于上手
-- 支持react-native，react，以及同构react，一个为实现三端融合开发的基础框架
-- 基于redux，redux-actions，react-navigation等
+# 命名由来
+> hanzo本名岛田半藏，职业为一名佣兵、刺客，半藏集暴风弓、音波箭、裂破箭、龙魂击等多种技能与一体，攻击性极强，杀人从不留活口
+
+__来自 [守望先锋](http://ow.blizzard.cn/heroes/hanzo) 。
+
+![hanzo](http://upload-images.jianshu.io/upload_images/6342050-a0a5563f35506d83.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# hanzo的作用
+
+* 借鉴[dva](https://github.com/dvajs/dva)框架，在dva.js的基础上去掉某些功能，以及定制了一些功能，用于redux和react框架的集成，目标是将繁琐的redux开发尽量简化，易于上手
+* 支持react-native，react，以及同构react，一个为实现三端融合开发的基础框架
+* 基于redux，redux-actions，react-navigation等
+
+# hanzo安装及使用说明
 
 ## 安装
 ---
@@ -310,12 +321,11 @@ module.exports = {
 
 ## DEMO
 - [todoListHanzojs](http://git.lsfash.cn/react-native/todoListHanzojs)
-- [CRM](http://git.lsfash.cn/react-native/react-native-crm-new)
 
-## 其他学习
+## hanzo简书
+- [https://www.jianshu.com/p/a06d6de3ae04](https://www.jianshu.com/p/a06d6de3ae04)
+
+## 其他学习框架
 - [redux](http://cn.redux.js.org/)
 - [redux-actions](https://github.com/acdlite/redux-actions)
 - [react-navigation](https://reactnavigation.org)
-
-## 开源许可
-基于 [MIT License](http://zh.wikipedia.org/wiki/MIT_License) 开源，使用代码只需说明来源，或者引用 [license.txt](https://github.com/sofish/typo.css/blob/master/license.txt) 即可。
